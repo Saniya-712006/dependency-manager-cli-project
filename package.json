@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "comander": "^0.0.1-security",
+    "fs": "^0.0.1-security"
+  }
+}
